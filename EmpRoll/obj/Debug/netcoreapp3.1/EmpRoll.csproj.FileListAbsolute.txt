@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.exe
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.deps.json
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.runtimeconfig.json
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.runtimeconfig.dev.json
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.dll
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\bin\Debug\netcoreapp3.1\EmpRoll.pdb
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.dll
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.pdb
+C:\Users\hp\Desktop\New folder\Day3\EmpRoll\EmpRoll\obj\Debug\netcoreapp3.1\EmpRoll.genruntimeconfig.cache
